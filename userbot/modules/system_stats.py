@@ -136,7 +136,7 @@ async def amireallyalive(alive):
                      f"`🤖**$T@TU$**:Wørking°•°•°•°•°•°•✅` \n"
                      f"**Telethon version**:{version.__version__} [✓]\n"
                      f"**Python version**🐍:{python_version()}[✓] \n"
-                     f"**Bot Version**🤘: Remix 2.0`[✓] \n"
+                     f"**Bot Version**🤘: π€MÎX 2.0`[✓] \n"
                      f"------------------------------------ \n"
                      
                      f"User 👨‍🚀: {DEFAULTUSER}[✓] \n"
