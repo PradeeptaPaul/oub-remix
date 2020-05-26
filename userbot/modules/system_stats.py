@@ -140,7 +140,7 @@ async def amireallyalive(alive):
                      f"------------------------------------ \n"
                      
                      f"User 👨‍🚀: {DEFAULTUSER}[✓] \n"
-                     f"Maintainer ♥️: @pradeeptapaulofficial©™[✓]"
+                     f"Maintainer ♥️: @Alexofficial20©™[✓]"
                      )
                          
 
