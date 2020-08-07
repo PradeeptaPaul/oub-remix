@@ -132,15 +132,15 @@ async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     await alive.edit(
                      
-                     f"✨✨✨✨**GØF@thêr's Bøt**✨✨✨✨ \n"
+                     f" 🇬​🇴​🇩​🇫​🇦​🇹​🇭​🇪​🇷  \n"
                      f"`🤖$T@TU$:Wørking°•°•°•°•°•°•✅` \n"
                      f"**Telethon version**:{version.__version__} [✓]\n"
                      f"**Python version**🐍:{python_version()}[✓] \n"
-                     f"**Bot Version**🤘: π€MÎX 2.0`[✓] \n"
+                     f"**Bot Version**🤘: 69.69.[✓] \n"
                      f"------------------------------------ \n"
                      
                      f"User 👨‍🚀: {DEFAULTUSER}[✓] \n"
-                     f"Maintainer ♥️: @Alexofficial20©™[✓]"
+                     f"Maintainer ♥️: @G_o_dF_a_t_h_e_r © ™[✓]"
                      )
                          
 
